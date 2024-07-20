@@ -5,10 +5,11 @@ Hello everyone, my name is Xenia. I am a Computer Information Systems Major with
 
 I have experience in:
 
-Data analysis
-Business analytics
-PowerBI
-Access
-MySQL
-Providing amazing customer service
+Data analysis,
+Business analytics,
+PowerBI,
+Access,
+MySQL,
+Providing amazing customer service.
+
 This repository was created to showcase my experience and progress throughout my career.
